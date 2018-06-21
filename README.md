@@ -1,2 +1,4 @@
 # BoaSorteApp
-Software voltado para ciencia de dados aplicado a loteria
+Software de ciência de dados voltado para jogos lotéricos.
+
+Copyright (c) PyRate Company. Todos os direitos reservados.
